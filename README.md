@@ -43,11 +43,11 @@ Step 5: Finally, “Configure Security Group” page will have to click on Revie
 Now wait for few seconds to change Instance State to change “running” for DC_Rstudio.
 ![AWS-Rstudio-EC2-Dashboard-RunningStatus](AWS-Rstudio-EC2-Dashboard-RunningStatus.png) 
 
-Bingo…. Now use browser to connect Rstudio  on Amazon AWS [Public IP : 34.228.43.222]
+**Bingo…** Now use browser to connect Rstudio  on Amazon AWS [Public IP : 34.228.43.222]
 ![R-Studio-SignIn-AWS](R-Studio-SignIn-AWS.png)
 
 
-Thanx 😊
+**Thanx 😊**
 
 
 
