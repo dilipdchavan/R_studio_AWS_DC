@@ -1,5 +1,5 @@
 # R_studio_AWS_DC
-<p align="center">I'm Center</p>
+# <p align="center"># R_studio_AWS_DC</p>
 ## Process walk-through for R-Studio Server installation on Amazon AWS
 
 
