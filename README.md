@@ -1,6 +1,7 @@
 # R_studio_AWS_DC
+<p align="center">I'm Center</p>
 ## Process walk-through for R-Studio Server installation on Amazon AWS
-Alt-H1
+
 
 ### Creation of VPC instance for Rstudio :
 Step 1 : Login in to your AWS account 
