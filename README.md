@@ -1,4 +1,4 @@
-<p align="center"># R_studio_AWS_DC</p>
+# <p align="center"> R_studio_AWS_DC</p>
 ## Process walk-through for R-Studio Server installation on Amazon AWS
 
 
