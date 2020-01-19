@@ -1,6 +1,7 @@
 # <p align="center"> R_studio_AWS_DC</p>
-## Process walk-through for R-Studio Server installation on Amazon AWS
 
+## Process walk-through for R-Studio Server installation on Amazon AWS
+**----------------------------------------------------------------------------------------------------------------------------**
 
 ### Creation of VPC instance for Rstudio :
 Step 1 : Login in to your AWS account 
@@ -20,6 +21,7 @@ Step 6 : Create security create a security group [Inbound / Outbound Rules] in w
 ![VPC-SecurityGroups-InboundRules](VPC-SecurityGroups-InboundRules-Step61.png)
 ![VPC-SecurityGroups-OutboundRules](VPC-SecurityGroups-OutboundRules-Step61.png)
  
+ **-------------------------------------------------------------------------------------------------------------------------------**
 
 ### EC2 AWS Rstudio Server Connection :
 Now Create your EC2 for Rstudio server instance
